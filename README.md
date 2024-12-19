@@ -3,7 +3,7 @@
 
 Bu proje, apartman yönetimi için geliştirilmiş bir uygulamadır. Kullanıcılar, apartmanlarında yer alan daireler, kullanıcılar ve talepler gibi verileri yönetebilirler. Sistem, kullanıcıların talepler oluşturmasına, taleplerini yönetmesine ve daire bilgilerini güncellemesine olanak tanır.
 ## Proje Ekibi
-- **Bahar Üründiker** ve **[Eminenur Zengin](https://github.com/EminenurZengin)** Tarafından hazırlanmıştır.
+- **Eminenur Zengin** ve **[Bahar Üründiker](https://github.com/baharurundiker)** Tarafından hazırlanmıştır.
 
 ## Özellikler
 
